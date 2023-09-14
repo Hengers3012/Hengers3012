@@ -12,7 +12,7 @@ Además, también soy un desarrollador Full Stack con 1 y 1/2 años de experienc
 - 🌐 Desarrollo Web: HTML, CSS, Tailwind, JavaScript, TypeScript.
 - 🌐 Frameworks Front-End: React, NextJS, VITE.
 - 🌐 Frameworks Back-End: Node.js, Express.
-- 🌐 Bases de Datos: SQL, MongoDB, Firebase.
+- 🌐 Bases de Datos: SQL, Sequelize, Firebase.
 - 💻 Experiencia en Desarrollo: Front-End y Full Stack
 - 🚀 Experiencia en Git y Manejo de Versiones
 
