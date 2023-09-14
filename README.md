@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre]
+# ¡Hola! Soy Hengers Rosario
 
 ## Sobre Mí
 
@@ -7,15 +7,12 @@ Soy Técnico Electrónico y futuro Ingeniero Electrónico con experiencia en pro
 Además, también soy un desarrollador Full Stack con 1 y 1/2 años de experiencia en Front-End y Back-End.
 
 - 💼 Profesión: Técnico Electrónico
-
 - 🌱 Actualmente estoy enfocado en aprender: PHP, Sanity...
-
 - 🌐 Lenguajes de Programación: Python, Basic, Visual Basic.Net, C, C#, C++, Java, Assembler.
 - 🌐 Desarrollo Web: HTML, CSS, Tailwind, JavaScript, TypeScript.
 - 🌐 Frameworks Front-End: React, NextJS, VITE.
 - 🌐 Frameworks Back-End: Node.js, Express.
 - 🌐 Bases de Datos: SQL, MongoDB, Firebase.
-
 - 💻 Experiencia en Desarrollo: Front-End y Full Stack
 - 🚀 Experiencia en Git y Manejo de Versiones
 
