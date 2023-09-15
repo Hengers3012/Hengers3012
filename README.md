@@ -10,7 +10,9 @@ Soy Técnico Electrónico y futuro Ingeniero con más de 12 años de experiencia
 
 Además, soy un desarrollador Full Stack con 1 y 1/2 años de experiencia en Front-End y Back-End.
 
-- 💼 Profesión: Ingeniero Electrónico en Formación
+- 💼 Profesión: Ingeniero Electrónico en Formación.
+- 🎓 Cursando SoyHenry: Full Stack Developer.
+- 🏆 Proyecto Final en Curso: [Mitsumichi](https://github.com/edgartellom/Mitsumichi)
 - 🌱 Actualmente estoy enfocado en aprender: PHP y Sanity.
 - 🌐 Lenguajes de Programación: Python, Basic, Visual Basic.Net, C, C#, C++, Java, Assembler.
 - 🌐 Desarrollo Web: HTML, CSS, Tailwind, JavaScript, TypeScript.
