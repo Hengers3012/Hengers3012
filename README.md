@@ -6,11 +6,11 @@
 
 </div>
 
-Soy Técnico Electrónico y futuro Ingeniero con más de 12 años de experiencia en el campo de la electrónica y la programación. Mi enfoque principal ha sido diseño de hardware y desarrollo de software para sistemas embebidos, asi como software para ordenadores y mi mayor pasión es la creación de aplicaciones web. A lo largo de mi carrera, he adquirido habilidades en una variedad de lenguajes de programación y tecnologías.
+Soy Técnico Electrónico y futuro Ingeniero con más de 12 años de experiencia en el campo de la electrónica y la programación. Mi enfoque principal ha sido el diseño de hardware y desarrollo de software para sistemas embebidos, asi como software para ordenadores y mi mayor pasión es la creación de aplicaciones web. A lo largo de mi carrera, he adquirido habilidades en una variedad de lenguajes de programación y tecnologías.
 
 Además, soy un desarrollador Full Stack con 1 y 1/2 años de experiencia en Front-End y Back-End.
 
-- 💼 Profesión: Técnico Electrónico.
+- 💼 Profesión: Ingeniero Electrónico en Formación
 - 🌱 Actualmente estoy enfocado en aprender: PHP y Sanity.
 - 🌐 Lenguajes de Programación: Python, Basic, Visual Basic.Net, C, C#, C++, Java, Assembler.
 - 🌐 Desarrollo Web: HTML, CSS, Tailwind, JavaScript, TypeScript.
