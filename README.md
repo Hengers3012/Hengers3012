@@ -1,13 +1,13 @@
-# ¡Hola! Soy Hengers Rosario
+## ![Alt text](image.png)
 
-## Sobre Mí
+### ¡Hola! Soy Hengers Rosario
 
-Soy Técnico Electrónico y futuro Ingeniero Electrónico con experiencia en programación para sistemas embebido. Mi pasión por la electrónica me ha llevado a explorar el mundo de los sistemas embebidos, donde he trabajado con lenguajes como C, C#, Basic, Java y Assembler.
+Soy Técnico Electrónico y futuro Ingeniero con más de 12 años de experiencia en el campo de la electrónica y la programación. Mi enfoque principal ha sido diseño de hardware y desarrollo de software para sistemas embebidos, asi como software para ordenadores y mi mayor pasión es la creación de aplicaciones web. A lo largo de mi carrera, he adquirido habilidades en una variedad de lenguajes de programación y tecnologías.
 
-Además, también soy un desarrollador Full Stack con 1 y 1/2 años de experiencia en Front-End y Back-End.
+Además, soy un desarrollador Full Stack con 1 y 1/2 años de experiencia en Front-End y Back-End.
 
 - 💼 Profesión: Técnico Electrónico
-- 🌱 Actualmente estoy enfocado en aprender: PHP, Sanity...
+- 🌱 Actualmente estoy enfocado en aprender: PHP y Sanity...
 - 🌐 Lenguajes de Programación: Python, Basic, Visual Basic.Net, C, C#, C++, Java, Assembler.
 - 🌐 Desarrollo Web: HTML, CSS, Tailwind, JavaScript, TypeScript.
 - 🌐 Frameworks Front-End: React, NextJS, VITE.
@@ -18,21 +18,70 @@ Además, también soy un desarrollador Full Stack con 1 y 1/2 años de experienc
 
 ## Experiencia con Git
 
-Tengo amplia experiencia en el uso de Git y el manejo de versiones para controlar el desarrollo de software y colaborar en proyectos de equipo. Algunos aspectos destacados de mi experiencia con Git incluyen:
+Tengo experiencia en el uso de Git y el manejo de versiones para controlar el desarrollo de software y colaborar en proyectos de equipo. Algunos aspectos destacados de mi experiencia con Git incluyen:
 
 - Gestión eficiente de repositorios Git en proyectos de desarrollo.
 - Colaboración efectiva en equipos utilizando ramas, fusiones (merges) y conflictos de fusión (merge conflicts).
 - Uso de plataformas de alojamiento de código como GitHub para gestionar proyectos y colaborar con otros desarrolladores.
 
-## Mis Intereses
+## Áreas de Interés
 
-- Creación de aplicaciones web interactivas y funcionales.
+Mis áreas de interés y logros adicionales incluyen:
+
+- **Innovación tecnológica:** Siempre estoy buscando nuevas tecnologías y enfoques para aplicar en proyectos futuros.
+
+- **Optimización de procesos:** Me interesa la optimización de procesos para aumentar la eficiencia en el desarrollo de software y la electrónica.
+
+- **Desarrollo sostenible:** Estoy comprometido con la sostenibilidad y la tecnología verde.
+
+- **Creación de Experiencias Web Impactantes:** creación de aplicaciones web interactivas y atractivas que proporcionen a los usuarios una experiencia de alta calidad.
+
+- **Desarrollo Full Stack:** He trabajado tanto en el Front-End como en el Back-End, lo que me permite crear aplicaciones web completas y escalables. Estoy familiarizado con frameworks como React, Vite, NextJS, Node.js y Express, lo que me permite ofrecer soluciones integrales.
+
+- **Integración de Bases de Datos:** He implementado bases de datos SQL, PostgreSQL y Firebase en proyectos web, lo que me permite gestionar datos de manera efectiva y proporcionar funcionalidades sólidas.
+
+- **Diseño Responsivo:** Soy estoy familiarizado en el diseño y desarrollo de aplicaciones web responsivas que se adaptan a diferentes dispositivos y tamaños de pantalla, garantizando una experiencia de usuario coherente.
+
+Estoy emocionado por continuar explorando y contribuyendo al desarrollo web, alineando mis intereses con mis habilidades y experiencia para crear soluciones web impactantes.
 
 ## Estadísticas de GitHub
 
 Puedes ver mis estadísticas de GitHub para tener una idea de mi actividad en la plataforma:
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Hengers3012&show_icons=true&count_private=true&theme=dark)
+
+<h3>Mis habilidades:</h3>
+<p>  
+  <img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.NET&logoColor=white" />
+ <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+ <img alt="C" src="https://img.shields.io/badge/-c-404040?style=flat-square&logo=c&logoColor=white" />
+
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-gold?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+
+  <img alt="html" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Next" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/-Vite-404040?style=flat-square&logo=vite&logoColor=white" />
+
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white" />  
+  
+  <img alt="MUI" src="https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=MUI&logoColor=white" />
+
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-404040?style=flat-square&logo=express&logoColor=white" />
+
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+ 
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" /> 
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
+  <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-gray?style=flat-square&logo=sequelize&logoColor=blue" />
+</p>
+<h4>Entre otras...</h4>
 
 Además, aquí están los lenguajes de programación que más utilizo:
 
@@ -43,6 +92,7 @@ Además, aquí están los lenguajes de programación que más utilizo:
 ¡Me encantaría conectarme contigo! Puedes encontrarme en las siguientes redes y sitios web:
 
 - 📧 Correo electrónico: hengersrosario.m@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/hengers-rosario-05a169275
+- 💼 LinkedIn: [Sígueme en Linkedin](www.linkedin.com/in/hengers-rosario-05a169275)
+- 🐦 Twitter: [Sígueme en Twitter](https://twitter.com/Hengers_Rosario)
 
 ¡Gracias por visitar mi perfil de GitHub! Si tienes alguna pregunta, deseas colaborar en un proyecto o simplemente quieres charlar sobre tecnología, ¡no dudes en contactarme!
