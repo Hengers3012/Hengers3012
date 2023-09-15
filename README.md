@@ -1,13 +1,17 @@
-![hengersdev](https://github.com/tu_usuario/tu_repositorio/raw/main/img/logo.png)
+<!-- ![hengersdev](./assets/logo_3d.png) -->
 
-### ¡Hola! Soy Hengers Rosario
+<div align="center" >
+  <img src="./assets/logo_3d.png" alt="Texto Alternativo" width="200" height="200">
+  <h1> ¡Hola! Soy Hengers Rosario</h1>
+
+</div>
 
 Soy Técnico Electrónico y futuro Ingeniero con más de 12 años de experiencia en el campo de la electrónica y la programación. Mi enfoque principal ha sido diseño de hardware y desarrollo de software para sistemas embebidos, asi como software para ordenadores y mi mayor pasión es la creación de aplicaciones web. A lo largo de mi carrera, he adquirido habilidades en una variedad de lenguajes de programación y tecnologías.
 
 Además, soy un desarrollador Full Stack con 1 y 1/2 años de experiencia en Front-End y Back-End.
 
-- 💼 Profesión: Técnico Electrónico
-- 🌱 Actualmente estoy enfocado en aprender: PHP y Sanity...
+- 💼 Profesión: Técnico Electrónico.
+- 🌱 Actualmente estoy enfocado en aprender: PHP y Sanity.
 - 🌐 Lenguajes de Programación: Python, Basic, Visual Basic.Net, C, C#, C++, Java, Assembler.
 - 🌐 Desarrollo Web: HTML, CSS, Tailwind, JavaScript, TypeScript.
 - 🌐 Frameworks Front-End: React, NextJS, VITE.
@@ -46,11 +50,13 @@ Estoy emocionado por continuar explorando y contribuyendo al desarrollo web, ali
 
 ## Estadísticas de GitHub
 
-Puedes ver mis estadísticas de GitHub para tener una idea de mi actividad en la plataforma:
+Puedes ver mis estadísticas de GitHub para tener una idea de mi actividad en la plataforma
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Hengers3012&show_icons=true&count_private=true&theme=dark)
 
-<h3>Mis habilidades:</h3>
+## Habilidades
+
+<div align="center" >
 <p>  
   <img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.NET&logoColor=white" />
  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
@@ -81,6 +87,7 @@ Puedes ver mis estadísticas de GitHub para tener una idea de mi actividad en la
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
   <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-gray?style=flat-square&logo=sequelize&logoColor=blue" />
 </p>
+</div>
 <h4>Entre otras...</h4>
 
 Además, aquí están los lenguajes de programación que más utilizo:
