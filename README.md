@@ -30,7 +30,7 @@ Tengo experiencia en el uso de Git y el manejo de versiones para controlar el de
 - Colaboración efectiva en equipos utilizando ramas, fusiones (merges) y conflictos de fusión (merge conflicts).
 - Uso de plataformas de alojamiento de código como GitHub para gestionar proyectos y colaborar con otros desarrolladores.
 
-## Áreas de Interés
+## Áreas de Interés y Logros
 
 Mis áreas de interés y logros adicionales incluyen:
 
