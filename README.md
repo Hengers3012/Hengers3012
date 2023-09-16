@@ -3,7 +3,6 @@
 <div align="center" >
   <img src="./assets/logo_3d.png" alt="Texto Alternativo" width="200" height="200">
   <h1> ¡Hola! Soy Hengers Rosario</h1>
-
 </div>
 
 Soy Técnico Electrónico y futuro Ingeniero con más de 12 años de experiencia en el campo de la electrónica y la programación. Mi enfoque principal ha sido el diseño de hardware y desarrollo de software para sistemas embebidos, asi como software para ordenadores. A lo largo de mi carrera, he adquirido habilidades en una variedad de lenguajes de programación y tecnologías. Al igual que mi pasión por el desarrollo de aplicaciónes web.
@@ -54,7 +53,7 @@ Estoy emocionado por continuar explorando y contribuyendo al desarrollo web, ali
 
 Puedes ver mis estadísticas de GitHub para tener una idea de mi actividad en la plataforma
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Hengers3012&show_icons=true&count_private=true&theme=dark)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ingGGRM&show_icons=true&count_private=true&theme=dark)
 
 ## Habilidades
 
