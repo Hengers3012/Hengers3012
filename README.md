@@ -53,7 +53,7 @@ Estoy emocionado por continuar explorando y contribuyendo al desarrollo web, ali
 
 Puedes ver mis estadísticas de GitHub para tener una idea de mi actividad en la plataforma
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ingGGRM&show_icons=true&count_private=true&theme=dark)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Hengers3012&show_icons=true&count_private=true&theme=dark)
 
 ## Habilidades
 
