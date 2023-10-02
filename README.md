@@ -90,7 +90,9 @@ Puedes ver mis estadísticas de GitHub para tener una idea de mi actividad en la
 </p>
 </div>
 
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hengers3012&theme:silver&hide_border=false" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hengers3012&theme=github-dark-blue&border_radius=5&card_width=500)](https://git.io/streak-stats)
+
+<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hengers3012&theme:silver&hide_border=false" />
 
 <h4>Entre otras...</h4>
 
