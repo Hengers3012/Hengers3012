@@ -5,6 +5,8 @@
   <h1> ¡Hola! Soy Hengers Rosario</h1>
 </div>
 
+## 💫 About Me:
+
 Soy Técnico Electrónico y futuro Ingeniero con más de 12 años de experiencia en el campo de la electrónica y la programación. Mi enfoque principal ha sido el diseño de hardware y desarrollo de software para sistemas embebidos, asi como software para ordenadores. A lo largo de mi carrera, he adquirido habilidades en una variedad de lenguajes de programación y tecnologías. Al igual que mi pasión por el desarrollo de aplicaciónes web.
 
 Además, soy un desarrollador Full Stack con 1 y 1/2 años de experiencia en Front-End y Back-End.
@@ -59,7 +61,7 @@ Puedes ver mis estadísticas de GitHub para tener una idea de mi actividad en la
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hengers3012&theme=react&show_icons=true&hide_border=false&count_private=true"/>
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hengers3012&theme=react&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hengers3012&theme=react&hide_border=false&" /> 
 </td>
 
 <td width="50%" align="center">
@@ -107,6 +109,11 @@ Puedes ver mis estadísticas de GitHub para tener una idea de mi actividad en la
 
 <h4>Entre otras...</h4>
 
+### ✍️ Random Dev Quote
+
+<div item="center>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+</div>
 ## Contacto
 
 ¡Me encantaría conectarme contigo! Puedes encontrarme en las siguientes redes y sitios web:
