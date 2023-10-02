@@ -5,7 +5,7 @@
   <h1> ¡Hola! Soy Hengers Rosario</h1>
 </div>
 
-## 💫 About Me:
+## 💫 Sobre Mi:
 
 Soy Técnico Electrónico y futuro Ingeniero con más de 12 años de experiencia en el campo de la electrónica y la programación. Mi enfoque principal ha sido el diseño de hardware y desarrollo de software para sistemas embebidos, asi como software para ordenadores. A lo largo de mi carrera, he adquirido habilidades en una variedad de lenguajes de programación y tecnologías. Al igual que mi pasión por el desarrollo de aplicaciónes web.
 
