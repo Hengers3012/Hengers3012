@@ -53,10 +53,8 @@ Estoy emocionado por continuar explorando y contribuyendo al desarrollo web, ali
 
 Puedes ver mis estadísticas de GitHub para tener una idea de mi actividad en la plataforma
 
-<div display="flex" >	
-<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-stats.vercel.app/api?username=Hengers3012&show_icons=true&count_private=true&theme=github_dark&border_radius=5&card_width=400" />
-<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=Hengers3012&theme=github-dark-blue&border_radius=5&card_width=420" />
-</div>
+<img  title="🔥" alt="Mark streak" src="https://github-readme-stats.vercel.app/api?username=Hengers3012&theme=react&show_icons=true&hide_border=false&count_private=true" />
+<img  title="🔥" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hengers3012&theme=react&hide_border=false" />
 
 ## Habilidades
 
@@ -97,7 +95,9 @@ Puedes ver mis estadísticas de GitHub para tener una idea de mi actividad en la
 
 Además, aquí están los lenguajes de programación que más utilizo:
 
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Hengers3012&layout=compact&theme=dark)
+<img  title="🔥" alt="Mark streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hengers3012&theme=react&show_icons=true&hide_border=false&layout=compact" />
+
+![Hengers3012's Top Languages]()
 
 ## Contacto
 
