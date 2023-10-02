@@ -23,7 +23,7 @@ Además, soy un desarrollador Full Stack con 1 y 1/2 años de experiencia en Fro
 - 💻 Experiencia en Desarrollo: Front-End y Full Stack
 - 🚀 Experiencia en Git y Manejo de Versiones
 
-## Experiencia con Git
+## <img src="./assets/github.256x256.png" alt="Texto Alternativo" width="20" height="20"> Experiencia con Git
 
 Tengo experiencia en el uso de Git y el manejo de versiones para controlar el desarrollo de software y colaborar en proyectos de equipo. Algunos aspectos destacados de mi experiencia con Git incluyen:
 
@@ -51,7 +51,7 @@ Mis áreas de interés y logros adicionales incluyen:
 
 Estoy emocionado por continuar explorando y contribuyendo al desarrollo web, alineando mis intereses con mis habilidades y experiencia para crear soluciones web impactantes.
 
-## Estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 
 Puedes ver mis estadísticas de GitHub para tener una idea de mi actividad en la plataforma
 
@@ -72,7 +72,7 @@ Puedes ver mis estadísticas de GitHub para tener una idea de mi actividad en la
 </tr>
 </table>
 
-## Habilidades
+## 💻 Habilidades
 
 <div align="center" >
 <p>  
