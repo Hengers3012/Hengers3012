@@ -64,7 +64,7 @@ Puedes ver mis estadísticas de GitHub para tener una idea de mi actividad en la
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Hengers3012&theme=react&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Hengers3012&theme=react&hide_border=false&no-bg=true&no-frame=true&langs_count=10&heigth=350"/>
   
   </td>
 </tr>
