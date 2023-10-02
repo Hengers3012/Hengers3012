@@ -53,8 +53,22 @@ Estoy emocionado por continuar explorando y contribuyendo al desarrollo web, ali
 
 Puedes ver mis estadísticas de GitHub para tener una idea de mi actividad en la plataforma
 
-<img  title="🔥" alt="Mark streak" src="https://github-readme-stats.vercel.app/api?username=Hengers3012&theme=react&show_icons=true&hide_border=false&count_private=true" />
-<img  title="🔥" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hengers3012&theme=react&hide_border=false" />
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hengers3012&theme=react&show_icons=true&hide_border=false&count_private=true"/>
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hengers3012&theme=react&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Hengers3012&theme=react&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
 
 ## Habilidades
 
