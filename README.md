@@ -53,7 +53,11 @@ Estoy emocionado por continuar explorando y contribuyendo al desarrollo web, ali
 
 Puedes ver mis estadísticas de GitHub para tener una idea de mi actividad en la plataforma
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Hengers3012&show_icons=true&count_private=true&theme=dark)
+<div display="flex" >	
+<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-stats.vercel.app/api?username=Hengers3012&show_icons=true&count_private=true&theme=github-dark-blue&border_radius=5&card_width=450" />
+
+<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=Hengers3012&theme=github-dark-blue&border_radius=5&card_width=450" />
+</div>
 
 ## Habilidades
 
@@ -89,10 +93,6 @@ Puedes ver mis estadísticas de GitHub para tener una idea de mi actividad en la
   <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-gray?style=flat-square&logo=sequelize&logoColor=blue" />
 </p>
 </div>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hengers3012&theme=github-dark-blue&border_radius=5&card_width=500)](https://git.io/streak-stats)
-
-<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hengers3012&theme:silver&hide_border=false" />
 
 <h4>Entre otras...</h4>
 
