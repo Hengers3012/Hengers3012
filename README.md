@@ -90,6 +90,9 @@ Puedes ver mis estadísticas de GitHub para tener una idea de mi actividad en la
   <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-gray?style=flat-square&logo=sequelize&logoColor=blue" />
 </p>
 </div>
+
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hengers3012&theme=midnight-purple&hide_border=false" />
+
 <h4>Entre otras...</h4>
 
 Además, aquí están los lenguajes de programación que más utilizo:
