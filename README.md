@@ -107,10 +107,6 @@ Puedes ver mis estadísticas de GitHub para tener una idea de mi actividad en la
 
 <h4>Entre otras...</h4>
 
-Además, aquí están los lenguajes de programación que más utilizo:
-
-<img  title="🔥" alt="Mark streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hengers3012&theme=react&show_icons=true&hide_border=false&layout=compact" />
-
 ## Contacto
 
 ¡Me encantaría conectarme contigo! Puedes encontrarme en las siguientes redes y sitios web:
