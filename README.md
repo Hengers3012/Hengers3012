@@ -111,7 +111,9 @@ Puedes ver mis estadísticas de GitHub para tener una idea de mi actividad en la
 
 ## ✍️ Random Dev Quote
 
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+</div>
 
 ## Contacto
 
