@@ -61,7 +61,7 @@ Puedes ver mis estadísticas de GitHub para tener una idea de mi actividad en la
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hengers3012&theme=react&show_icons=true&hide_border=false&count_private=true"/>
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hengers3012&theme=react&hide_border=false&" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hengers3012&theme=react&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
