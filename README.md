@@ -11,15 +11,13 @@ Soy Ingeniero Electrónico con más de 13 años de experiencia en el campo de la
 
 Además, soy un desarrollador Full Stack con 1 y 1/2 años de experiencia en Front-End y Back-End.
 
-- 💼 Profesión: Ingeniero Electrónico.
-- 🎓 Cursando SoyHenry: Full Stack Developer.
-- 🏆 Trabajo en Curso: [StockInvoicing App](https://github.com/ingGGRM/StockInvoicing_Desktop)
-<!-- - 🌱 Actualmente estoy enfocado en aprender: PHP y Sanity. -->
+- 💼 Profesión: Ingeniero Electrónico & Full Stack Developer.
+- 🏆 Trabajo en Curso: [StockInvoicing App](https://github.com/ingGGRM/StockInvoicing_Desktop) <!-- - 🌱 Actualmente estoy enfocado en aprender: PHP y Sanity. -->
 - 🌐 Lenguajes de Programación: Python, Basic, Visual Basic.Net, C, C#, C++, Java, Assembler.
 - 🌐 Desarrollo Web: HTML, CSS, Tailwind, JavaScript, TypeScript.
-- 🌐 Frameworks Front-End: React, NextJS, VITE.
+- 🌐 Frameworks Front-End: React, NextJS, VITE, Astro, Svelte.
 - 🌐 Frameworks Back-End: Node.js, Express.
-- 🌐 Bases de Datos: SQL, Sequelize, Firebase.
+- 🌐 Bases de Datos: SQL, SQLite, Sequelize, Firebase.
 - 💻 Experiencia en Desarrollo: Front-End y Full Stack
 - 🚀 Experiencia en Git y Manejo de Versiones
 
