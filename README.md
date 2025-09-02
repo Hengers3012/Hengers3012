@@ -13,8 +13,8 @@ Además, soy un desarrollador Full Stack con 1 y 1/2 años de experiencia en Fro
 
 - 💼 Profesión: Ingeniero Electrónico.
 - 🎓 Cursando SoyHenry: Full Stack Developer.
-- 🏆 Proyecto Final en Curso: [Mitsumichi](https://github.com/edgartellom/Mitsumichi)
-- 🌱 Actualmente estoy enfocado en aprender: PHP y Sanity.
+- 🏆 Trabajo en Curso: [StockInvoicing App](https://github.com/ingGGRM/StockInvoicing_Desktop)
+<!-- - 🌱 Actualmente estoy enfocado en aprender: PHP y Sanity. -->
 - 🌐 Lenguajes de Programación: Python, Basic, Visual Basic.Net, C, C#, C++, Java, Assembler.
 - 🌐 Desarrollo Web: HTML, CSS, Tailwind, JavaScript, TypeScript.
 - 🌐 Frameworks Front-End: React, NextJS, VITE.
